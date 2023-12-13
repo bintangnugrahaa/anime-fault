@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <a href="https://nextjs.org">
     <picture>
@@ -68,4 +67,3 @@ If you believe you have found a security vulnerability in Next.js, we encourage 
 https://vercel.com/security
 =======
 # Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
->>>>>>> origin/master
